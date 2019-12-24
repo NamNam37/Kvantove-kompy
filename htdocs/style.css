@@ -1,0 +1,16 @@
+body {
+  background-image: url("porgs.jpg");
+  text-align: center;
+}
+
+h1 {
+  background-color:#CD295A;
+  color:#7D26CD;
+  margin-left: 20px;
+}
+
+p {
+  background-color:#00B7FF;
+  color:#7D26CD;
+  margin-left: 20px;
+}
